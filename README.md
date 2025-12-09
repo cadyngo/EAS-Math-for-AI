@@ -1,1 +1,3 @@
-# EAS-Math-for-AI
+# Caltech EAS Math for AI
+
+Hello!
